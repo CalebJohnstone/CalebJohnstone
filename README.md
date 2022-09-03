@@ -1,3 +1,1 @@
-- Hi, I’m Caleb Johnstone
-- I’m interested in Computer Science, Data Science and Software Engineering
-- How to reach me: calebdjohnstone@gmail.com
+
